@@ -1,0 +1,1 @@
+Staging tests will provide integrated tests environment for bigger tests.
